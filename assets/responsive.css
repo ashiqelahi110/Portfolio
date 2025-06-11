@@ -1,0 +1,38 @@
+/* leptop device 0 to 1024 */
+@media screen and (max-width: 1024px;){
+    <!-- header-section -->
+
+    <!-- first-section -->
+    <!-- second-section -->
+    <!-- third-section -->
+    <!-- fifthi-section -->
+    <!-- sixth-section -->
+    <!-- seventh-section -->
+
+}
+/* tablet device 0 to 640 */
+@media screen and(max-width: 640px;){
+    <!-- header-section -->
+.nevigation {
+    gap: 20px;
+}
+    <!-- first-section -->
+    <!-- second-section -->
+    <!-- third-section -->
+    <!-- fifthi-section -->
+    <!-- sixth-section -->
+    <!-- seventh-section -->
+
+}
+/* mobile device 0 to 425 */
+@media screen and (max-width: 425px;) {
+    <!-- header-section -->
+
+    <!-- first-section -->
+    <!-- second-section -->
+    <!-- third-section -->
+    <!-- fifthi-section -->
+    <!-- sixth-section -->
+    <!-- seventh-section -->
+
+}
